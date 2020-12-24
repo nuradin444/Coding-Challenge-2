@@ -1,0 +1,22 @@
+.button{
+    border:1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.heading{
+    text-align: center;
+}
+
+
+.flexbox_choose_color{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
