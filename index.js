@@ -6,6 +6,8 @@ console.log(all_buttons);
 let copyAllButtons = [];
 
 for (let i =0; i < all_buttons.length; i++){
+    //displays all the tag names called button and get all the class names 
+    //button.classnames
     copyAllButtons.push(all_buttons[i].classList[i])
 
 }
